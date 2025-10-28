@@ -1,9 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /admin/
-Disallow: /private/
 
 Sitemap: https://xn----dtbcsbkd0afbcsi.xn--p1ai/sitemap.xml
-
-# APGsG Gaming Community - Discord сервер для поиска команды
-# Разрешаем индексацию всего сайта
